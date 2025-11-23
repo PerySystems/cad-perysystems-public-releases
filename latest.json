@@ -1,11 +1,19 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "notes": "",
-  "pub_date": "2025-11-23T20:32:28.728Z",
+  "pub_date": "2025-11-23T21:49:32.570Z",
   "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMEtYZ0dPcmU3YUhTQ0RXVFhsWmRrdjNKeUZSOUs3ZGtHdHlvTTI3UUM2eWYwQUdSTEhSNEFVQ2dFQXhCRWFBQlo2UERQTzhVcjZXeGFTd25RRk9GaDhHWUswcFVIU2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzOTM0NTY4CWZpbGU6Y2FkLXBlcnlzeXN0ZW1zLWRlc2t0b3BfMC4yLjBfeDY0X2VuLVVTLm1zaQpCNUJLaFVxdzExeXFxZUtDWHhXbGJNQzN3anZWOUxTaGM5N3B0d2x1Z3pOR0FQRnZYZWl5dkpUa0RKcy9GbWJzZHJiamVJWDh3WUVpVEpKWENHY21CQT09Cg==",
+      "url": "https://github.com/PerySystems/cad-perysystems-public-releases/releases/download/v0.2.0/cad-perysystems-desktop_0.2.0_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMEtYZ0dPcmU3YUhTQ0RXVFhsWmRrdjNKeUZSOUs3ZGtHdHlvTTI3UUM2eWYwQUdSTEhSNEFVQ2dFQXhCRWFBQlo2UERQTzhVcjZXeGFTd25RRk9GaDhHWUswcFVIU2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzOTM0NTY4CWZpbGU6Y2FkLXBlcnlzeXN0ZW1zLWRlc2t0b3BfMC4yLjBfeDY0X2VuLVVTLm1zaQpCNUJLaFVxdzExeXFxZUtDWHhXbGJNQzN3anZWOUxTaGM5N3B0d2x1Z3pOR0FQRnZYZWl5dkpUa0RKcy9GbWJzZHJiamVJWDh3WUVpVEpKWENHY21CQT09Cg==",
+      "url": "https://github.com/PerySystems/cad-perysystems-public-releases/releases/download/v0.2.0/cad-perysystems-desktop_0.2.0_x64_en-US.msi"
+    },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMEtYZ0dPcmU3YVBLdkhUK25KOHBVSTQrVUhrWkNzTlFPbnUwMFlUVUVtZTBOaGNUcFZWL3FwZDZPQkhHNjJibjlXYlVxUGVlMGNTZ1k0djNWaTJzcjJ0QlBaY1JpTGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzOTI5OTQ1CWZpbGU6Y2FkLXBlcnlzeXN0ZW1zLWRlc2t0b3BfMC4xLjBfeDY0X2VuLVVTLm1zaQp3SVhPVExKZUFybWgwZ1RGWVpuNVo3bmNkOEtNNEZVVXRrd05VRzFwL2loMkxXajN1QzZDcVFxVmxiOFRQaVhNc0ZIbWdtMTFFMUJsQ0FIRUlpTEtCdz09Cg==",
-      "url": "https://github.com/PerySystems/cad-perysystems-public-releases/releases/download/v0.1.0/cad-perysystems-desktop_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMEtYZ0dPcmU3YU1YeDBWYzJwLzZJdzBTUEd5dHNoajVSZ01uODBTSEpHU1NBTmFBQlFoV3BsNjd6dzFiZVhHRnNUK3NWRHJVcCtUbUFodEN3YmVveTVyY1ZxZWYyWWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzOTM0NTY4CWZpbGU6Y2FkLXBlcnlzeXN0ZW1zLWRlc2t0b3BfMC4yLjBfeDY0LXNldHVwLmV4ZQpNVHhLM2xKWllBVHBGWjByUEE3SXBidUpvck4rcmxTZGRxeUZBMUZZSk15WndiRVJhL21iTmNGMEhOV09DcE0yOXNxTmRnRDU2Yy8vNjgxTXFYckREQT09Cg==",
+      "url": "https://github.com/PerySystems/cad-perysystems-public-releases/releases/download/v0.2.0/cad-perysystems-desktop_0.2.0_x64-setup.exe"
     }
   }
 }
