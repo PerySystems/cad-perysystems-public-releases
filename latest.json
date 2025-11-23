@@ -1,11 +1,11 @@
 {
-  "version": "0.0.1",
-  "notes": "Placeholder; no update.",
-  "pub_date": "2025-01-01T00:00:00Z",
+  "version": "0.1.0",
+  "notes": "",
+  "pub_date": "2025-11-23T20:32:28.728Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "",
-      "url": ""
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMEtYZ0dPcmU3YVBLdkhUK25KOHBVSTQrVUhrWkNzTlFPbnUwMFlUVUVtZTBOaGNUcFZWL3FwZDZPQkhHNjJibjlXYlVxUGVlMGNTZ1k0djNWaTJzcjJ0QlBaY1JpTGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzOTI5OTQ1CWZpbGU6Y2FkLXBlcnlzeXN0ZW1zLWRlc2t0b3BfMC4xLjBfeDY0X2VuLVVTLm1zaQp3SVhPVExKZUFybWgwZ1RGWVpuNVo3bmNkOEtNNEZVVXRrd05VRzFwL2loMkxXajN1QzZDcVFxVmxiOFRQaVhNc0ZIbWdtMTFFMUJsQ0FIRUlpTEtCdz09Cg==",
+      "url": "https://github.com/PerySystems/cad-perysystems-public-releases/releases/download/v0.1.0/cad-perysystems-desktop_0.1.0_x64-setup.exe"
     }
   }
 }
